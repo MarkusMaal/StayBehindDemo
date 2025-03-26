@@ -8,7 +8,7 @@
         ExtendClientAreaToDecorationsHint="True"
         ExtendClientAreaChromeHints="NoChrome" Loaded="Window_Loaded"
         ExtendClientAreaTitleBarHeightHint="-1"
-        Background="Transparent"
+        Background="Black" Foreground="White"
         SystemDecorations="BorderOnly" WindowStartupLocation="Manual"
         Title="StayBehindDemo" Opened="Window_Opened">
     I'm behind every other window!
